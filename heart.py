@@ -2,7 +2,6 @@ import pandas as pd
 import ssl
 import numpy as np
 import streamlit as st
-from ucimlrepo import fetch_ucirepo
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 
